@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ added\ test\ methods\r\n\ \r\n\ @site\ https\://www.coursera.org/learn/java-programming-arrays-lists-data/supplement/cAl9o/programming-exercise-reading-log-files\r\n\ @week\ 3\r\n\ @Assignment-Reading\ Web\ Logs\ \r\n
+comment1.params=
+comment1.target=void\ testLogAnalyzer()
+comment2.params=
+comment2.target=void\ testUniqueIP()
+comment3.params=
+comment3.target=void\ testCountingVisits()
+comment4.params=
+comment4.target=void\ testIpsForDays()
+numComments=5
