@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WordFrequencies
+comment0.text=\r\n\ Takes\ words\ from\ file\ using\ FileResource\ and\ gives\ \#\ of\ unique\ words\ \r\n\ using\ two\ parallel\ arraylist\ or\ a\ hashmap\r\n\ @week\ 2\r\n\ @site\ https\://www.coursera.org/learn/java-programming-arrays-lists-data/lecture/aHZ0o/arraylist-for-unique-words\r\n
+comment1.params=
+comment1.target=WordFrequencies()
+comment2.params=
+comment2.target=void\ findUnique()
+comment3.params=
+comment3.target=void\ printWords()
+comment4.params=
+comment4.target=void\ tester()
+comment5.params=
+comment5.target=int\ findIndexOfMax()
+numComments=6
