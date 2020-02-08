@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment0.text=\r\n\ Replaces\ vowels\ present\ in\ a\ string\ with\ another\ character\ \r\n\ \r\n\ @site\ https\://www.coursera.org/learn/java-programming-arrays-lists-data/supplement/DvNzQ/programming-exercise-implementing-the-caesar-cipher\ \r\n\ @assignment\ 1-Word\ Play\r\n
+comment1.params=ch
+comment1.target=boolean\ isVowel(char)
+comment2.params=phrase\ ch
+comment2.target=java.lang.String\ replaceVowels(java.lang.String,\ char)
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ emphasize(java.lang.String,\ char)
+comment4.params=
+comment4.target=void\ testWordPlay()
+comment5.params=s
+comment5.target=void\ textFingerPrint(java.lang.String)
+numComments=6

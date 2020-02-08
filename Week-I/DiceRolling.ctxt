@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DiceRolling
+comment0.text=\r\n\ Simulate\ rolling\ 2\ 6-sided\ die,\ keep\ statistics\r\n\ \r\n\ @site\ (https\://www.coursera.org/learn/java-programming-arrays-lists-data/lecture/m6tM1/random-numbers-and-arrays)\ \r\n\ \r\n
+comment1.params=rolls
+comment1.target=void\ simulate(int)
+comment2.params=rolls
+comment2.target=void\ simpleSimulate(int)
+numComments=3
